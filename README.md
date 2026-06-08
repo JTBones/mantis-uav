@@ -32,6 +32,19 @@ A modular quadcopter project focused on learning UAV systems, ArduPilot, GPS nav
 - Basic hover testing in progress
 - GPS, VTX, and camera integration pending
 
+## Planned Features
+- GPS-assisted flight modes
+- Battery voltage/current monitoring
+- Telemetry logging
+- Video downlink
+- TAK/WinTAK integration
+- Click-to-mark GPS workflow
+- Companion computer experimentation
+
+## Disclaimer
+
+This is an experimental educational UAV project. All testing should be conducted safely, legally, and away from people, aircraft, property, and restricted airspace.
+
 ## Repo Structure
 
 ```text
